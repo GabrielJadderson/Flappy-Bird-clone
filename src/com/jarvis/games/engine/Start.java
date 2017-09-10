@@ -1,7 +1,7 @@
 package com.jarvis.games.engine;
 
 /**
- * @author Jubrail Faiz
+ * @author Gabriel Jadderson
  * @since 16-02-2014
  * starter		
  */
