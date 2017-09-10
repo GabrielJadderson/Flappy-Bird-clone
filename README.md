@@ -1,2 +1,3 @@
 # Flappy-Bird-clone
-FlappyBird clone in Java. To run the game -> Download the repositiory -> import into eclipse or any other IDE -> main is located in "Start.java"
+FlappyBird clone in Java.
+Very old and the code is absolutely cancer, but it worked back then, with each run i'm amazed that it works.
