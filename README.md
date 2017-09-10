@@ -3,4 +3,4 @@ FlappyBird clone in Java.
 Very old and the code is absolute cancer, but it worked back then. 
 With each run i'm amazed that it works, it just seems you can't kill this project.
 
-![](https://i.imgur.com/WibzFUi.gif)
+![a](https://i.imgur.com/WibzFUi.gif)
